@@ -1,5 +1,0 @@
-numpy-dev
-pandas-dev
-matplotlib-dev
-seaborn-dev
-streamlit-dev
